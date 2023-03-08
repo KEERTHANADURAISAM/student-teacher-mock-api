@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 300px;
+    text-align:justify;
+    padding: 40px;
+}
+.input{
+    height: 15px;
+    width: 300px;
+}
+.btn{
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    width: 300px;
+}
