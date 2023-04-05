@@ -27,7 +27,7 @@ export default function Base({children}) {
                 
                 </Typography>
                 <div className="btn">  
-                <span onClick={()=>navigate('/')}>Home</span>
+                <span onClick={()=>navigate('/home/dashboard')}>Home</span>
                 <span  onClick={()=>navigate('/loadingdata')}> Student</span>
                 <span  onClick={()=>navigate('/staffpage')}> Teacher</span>
                 <Avatar alt="K"  sx={{color:'black',backgroundColor:'white'}}  /> 
